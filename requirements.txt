@@ -1,0 +1,26 @@
+# Core Libraries
+pandas
+numpy
+scikit-learn
+scipy
+
+# NLP Libraries
+nltk
+spacy
+textblob
+
+# Deep Learning (if required)
+tensorflow
+torch
+transformers
+
+# Feature Extraction
+tqdm
+regex
+
+# Visualization (if needed)
+matplotlib
+seaborn
+
+# Other Utilities
+joblib
