@@ -1,0 +1,14 @@
+# Core Libraries
+pandas
+numpy
+scikit-learn
+
+# NLP Libraries
+nltk
+regex
+
+# Machine Learning
+scipy
+
+# Data Processing & Vectorization
+tqdm
